@@ -1,4 +1,5 @@
 ⚽ Score Tracking System
+
 This project is a system that retrieves match scores via an API and instantly transmits match information about the teams determined by the users. 
 Messaging infrastructure was established with RabbitMQ, and the user interface was prepared with CustomTkinter.
 
@@ -12,21 +13,22 @@ Messaging infrastructure was established with RabbitMQ, and the user interface w
 
 1. Clone this project:
    ```bash
-git clone https://github.com/MerveKaracicek/Score_Tracking_System.git
-
-cd score-tracking-system
+    git clone https://github.com/MerveKaracicek/Score_Tracking_System.git
+    cd score-tracking-system
 
 2. Install the required libraries:
-pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 
-3.Create the .env file and enter your API key in it:
-API_KEY=YOUR_API_KEY
+4. Create the .env file and enter your API key in it:
+   ```bash
+   API_KEY=YOUR_API_KEY
 
 🛠 Technologies Used
 - Python
 - RabbitMQ
 - CustomTkinter (GUI)
-- API-Football (spor verisi)
+- API-Football 
 
  🖼️ Example of GUI 
  
