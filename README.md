@@ -13,6 +13,7 @@ Messaging infrastructure was established with RabbitMQ, and the user interface w
 1. Clone this project:
    ```bash
 git clone https://github.com/MerveKaracicek/Score_Tracking_System.git
+
 cd score-tracking-system
 
 2. Install the required libraries:
@@ -28,5 +29,6 @@ API_KEY=YOUR_API_KEY
 - API-Football (spor verisi)
 
  🖼️ Example of GUI 
+ 
 ![Ekran görüntüsü 2025-06-19 211207](https://github.com/user-attachments/assets/fc2315bc-c83a-453a-9436-79079c1324d1)
 
